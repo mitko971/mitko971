@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mitko971
+- 👋 Hi, I’m DImitur Stoyanov
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Python-Fundamentals
 - 💞️ I’m looking to collaborate on ...

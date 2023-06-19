@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DImitur Stoyanov
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Python-Fundamentals
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
